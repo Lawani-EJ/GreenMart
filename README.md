@@ -2,6 +2,8 @@
 GreenMart is an e-commerce website built using HTML, CSS, and JavaScript, with styling and layout enhancements provided by the Bootstrap framework. It fetches product data from the FakeStoreAPI and dynamically generates product cards to display on the webpage.
 
 ### Preview:
+![image](https://github.com/user-attachments/assets/d5e51e01-d0e0-4b98-8280-9f6a219ba347)
+
 ![image](https://github.com/user-attachments/assets/fc657b72-1e92-4bb8-b257-990121e9afed)
 
 ![image](https://github.com/user-attachments/assets/d0a91abf-28cd-4152-9ad0-25d6a75cd373)
