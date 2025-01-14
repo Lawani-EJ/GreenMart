@@ -1,6 +1,12 @@
-# [Green Mart](https://green-merch-mart.netlify.app/) 🛒 
 ## Description 🥸
 GreenMart is an e-commerce website built using HTML, CSS, and JavaScript, with styling and layout enhancements provided by the Bootstrap framework. It fetches product data from the FakeStoreAPI and dynamically generates product cards to display on the webpage.
+
+### Preview:
+![image](https://github.com/user-attachments/assets/fc657b72-1e92-4bb8-b257-990121e9afed)
+
+![image](https://github.com/user-attachments/assets/d0a91abf-28cd-4152-9ad0-25d6a75cd373)
+
+![image](https://github.com/user-attachments/assets/cbf74589-c833-4d71-92e9-a3329d14e2df)
 
 ## Tags Used in Building This Project 🏷️ 
 1. HTML 🖥️: Utilized for structuring the content of the website.
